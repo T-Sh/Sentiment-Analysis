@@ -1,0 +1,12 @@
+numpy
+pandas
+torch
+nltk
+pytest
+pymorhy2
+tensorflow-gpu
+deeppavlov
+transformers==2.6.0
+squad_bert
+fasttext
+bert_sentence_embedder
